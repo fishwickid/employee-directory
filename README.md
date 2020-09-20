@@ -17,4 +17,4 @@ This app is built using the following technologies
 
 ## See deployed application
 
-https://github.com/fishwickid/employee-directory
+https://fishwickid.github.io/employee-directory/
